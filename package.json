@@ -1,0 +1,37 @@
+{
+  "name": "generator-s9s-component",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acortcab/generator-s9s-component.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "component",
+    "javascript",
+    "builder",
+    "scaffold",
+    "generator",
+    "s9s"
+  ],
+  "author": "Cortes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acortcab/generator-s9s-component/issues"
+  },
+  "homepage": "https://github.com/acortcab/generator-s9s-component#readme",
+  "dependencies": {
+    "decamelize": "^2.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.2.0"
+  },
+  "files": [
+    "app"
+  ]
+}
